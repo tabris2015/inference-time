@@ -16,7 +16,7 @@ def start() -> None:
     Fire(main)
 
 
-def main(config_path: str) -> None:
+def main(config_path: str, iterations: int) -> None:
     _LOGGER.info(f"Reading bundles to test from {config_path}")
     
     bundles_data = read_configs(config_path)
@@ -34,7 +34,7 @@ def main(config_path: str) -> None:
 
                 image = avi_io.read_image(bundle["image"])
 
-                results = avg_results(model, image, iterations=10)
+                results = avg_results(model, image, iterations=iterations)
 
                 _LOGGER.info(f"Results for {experiment_type}, {model_size}, {bundle['size']}: {results}")
                 bundle.update({"latency_results": results})
