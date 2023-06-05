@@ -1,0 +1,261 @@
+{
+  "bundles_root": "/home/pepe/Downloads/bundles/",
+  "classification": {
+    "fast": [
+      {
+        "size": "650x650",
+        "bundle": "bundle_72b21aa2-637b-483a-b60d-84480824bf9d",
+        "image": "img/650x650.png",
+        "mpixel": 0.423
+      }
+    ],
+    "small": [
+      {
+        "size": "128x128",
+        "bundle": "bundle_600ccaa4-be9d-4ae9-85b4-561108ee22a3",
+        "image": "img/128x128.png",
+        "mpixel": 0.016
+      },
+      {
+        "size": "400x400",
+        "bundle": "bundle_e47f26c9-0069-4f20-a63c-ad371b0b64f2",
+        "image": "img/400x400.png",
+        "mpixel": 0.16
+      },
+      {
+        "size": "680x680",
+        "bundle": "bundle_50b33f92-c06e-48a4-8b7c-66b522f5c1d0",
+        "image": "img/680x680.png",
+        "mpixel": 0.462
+      },
+      {
+        "size": "960x960",
+        "bundle": "bundle_2913271a-345b-48e8-bf02-6d570443a52b",
+        "image": "img/960x960.png",
+        "mpixel": 0.922
+      },
+      {
+        "size": "1200x1200",
+        "bundle": "bundle_4986adce-87ab-4e0e-9b90-c00fa284ca3c",
+        "image": "img/1200x1200.png",
+        "mpixel": 1.44
+      },
+      {
+        "size": "1500x1500",
+        "bundle": "bundle_e9b39c32-a61d-471e-902f-3e72f257b941",
+        "image": "img/1500x1500.png",
+        "mpixel": 2.25
+      }
+    ],
+    "medium": [
+      {
+        "size": "128x128",
+        "bundle": "bundle_5678cf2d-0581-48b7-a23e-aa6401cbba1d",
+        "image": "img/128x128.png",
+        "mpixel": 0.016
+      },
+      {
+        "size": "400x400",
+        "bundle": "bundle_9485a221-988c-4f20-a0a7-ed56b725dd5f",
+        "image": "img/400x400.png",
+        "mpixel": 0.16
+      },
+      {
+        "size": "680x680",
+        "bundle": "bundle_1bdc21f0-d6d1-4e4a-ae82-00d55058071e",
+        "image": "img/680x680.png",
+        "mpixel": 0.462
+      },
+      {
+        "size": "960x960",
+        "bundle": "bundle_a33b76e7-63ed-47ee-af7e-5c1a8a7d6446",
+        "image": "img/960x960.png",
+        "mpixel": 0.922
+      },
+      {
+        "size": "1200x1200",
+        "bundle": "bundle_4370f0bb-8aa9-45ae-97bc-47504d5d722b",
+        "image": "img/1200x1200.png",
+        "mpixel": 1.44
+      },
+      {
+        "size": "1500x1500",
+        "bundle": "bundle_44c2c6a2-b49e-484a-986d-0ae3e899af73",
+        "image": "img/1500x1500.png",
+        "mpixel": 2.25
+      }
+    ]
+  },
+  "object_detection": {
+    "fast": [
+      {
+        "size": "650x650",
+        "bundle": "bundle_2fb6c94c-83db-4bd3-9969-a7d784407c44",
+        "image": "img/650x650.png",
+        "mpixel": 0.423
+      }
+    ],
+    "small": [
+      {
+        "size": "128x128",
+        "bundle": "bundle_74dfdcb7-b7ea-472a-bda6-50c2a418a869",
+        "image": "img/128x128.png",
+        "mpixel": 0.016
+      },
+      {
+        "size": "400x400",
+        "bundle": "bundle_47fbbcdc-6147-4d8e-92ec-d0337f06e879",
+        "image": "img/400x400.png",
+        "mpixel": 0.16
+      },
+      {
+        "size": "680x680",
+        "bundle": "bundle_4a67f5f2-00da-460d-a921-1a965a9b5a76",
+        "image": "img/680x680.png",
+        "mpixel": 0.462
+      },
+      {
+        "size": "960x960",
+        "bundle": "bundle_07089e5d-bec5-4389-aa37-87f785fa4107",
+        "image": "img/960x960.png",
+        "mpixel": 0.922
+      },
+      {
+        "size": "1200x1200",
+        "bundle": "bundle_7d70d851-c88a-47c9-97ba-06a3117280f8",
+        "image": "img/1200x1200.png",
+        "mpixel": 1.44
+      },
+      {
+        "size": "1500x1500",
+        "bundle": "bundle_d629432b-369a-476b-986f-ec2e6d5c46c1",
+        "image": "img/1500x1500.png",
+        "mpixel": 2.25
+      }
+    ],
+    "medium": [
+      {
+        "size": "128x128",
+        "bundle": "bundle_2d84a39c-5fbc-4a34-8f4c-56d1b3e124f4",
+        "image": "img/128x128.png",
+        "mpixel": 0.016
+      },
+      {
+        "size": "400x400",
+        "bundle": "bundle_868ade31-0d9a-4a25-974f-f721512affa8",
+        "image": "img/400x400.png",
+        "mpixel": 0.16
+      },
+      {
+        "size": "680x680",
+        "bundle": "bundle_e3181498-adbb-4ab9-bdc1-e13f60eebdb9",
+        "image": "img/680x680.png",
+        "mpixel": 0.462
+      },
+      {
+        "size": "960x960",
+        "bundle": "bundle_99f80be9-0650-483c-9953-b2c25532bdd6",
+        "image": "img/960x960.png",
+        "mpixel": 0.922
+      },
+      {
+        "size": "1200x1200",
+        "bundle": "bundle_b17008d7-d036-408f-a523-7d2d4349bdf4",
+        "image": "img/1200x1200.png",
+        "mpixel": 1.44
+      },
+      {
+        "size": "1500x1500",
+        "bundle": "bundle_daa9f27e-fa70-463e-a1be-760f83d0bebc",
+        "image": "img/1500x1500.png",
+        "mpixel": 2.25
+      }
+    ]
+  },
+  "segmentation": {
+    "fast": [
+      {
+        "size": "650x650",
+        "bundle": "bundle_4267150f-f2e9-4c49-9b92-ffec6b80b395",
+        "image": "img/650x650.png",
+        "mpixel": 0.423
+      }
+    ],
+    "small": [
+      {
+        "size": "128x128",
+        "bundle": "bundle_b4db5f03-49b9-4684-9e4d-02710b3bdd04",
+        "image": "img/128x128.png",
+        "mpixel": 0.016
+      },
+      {
+        "size": "300x300",
+        "bundle": "bundle_ffb1124e-223e-4642-bead-2b57fa8ee33e",
+        "image": "img/300x300.png",
+        "mpixel": 0.09
+      },
+      {
+        "size": "470x470",
+        "bundle": "bundle_4f8e4680-f7e0-4a83-9e56-7d29a344ead2",
+        "image": "img/470x470.png",
+        "mpixel": 0.221
+      },
+      {
+        "size": "650x650",
+        "bundle": "bundle_d2b8a63a-114d-4454-a8c2-c2e76cfd255a",
+        "image": "img/650x650.png",
+        "mpixel": 0.422
+      },
+      {
+        "size": "820x820",
+        "bundle": "bundle_61407a04-2306-47ac-8c4f-c86a3b73c3b3",
+        "image": "img/820x820.png",
+        "mpixel": 0.672
+      },
+      {
+        "size": "992x992",
+        "bundle": "bundle_29aa2702-1e4d-4a49-917d-ade09881de32",
+        "image": "img/992x992.png",
+        "mpixel": 0.984
+      }
+    ],
+    "medium": [
+      {
+        "size": "128x128",
+        "bundle": "bundle_69b95c0a-9657-47ae-b84d-7d431f20e93a",
+        "image": "img/128x128.png",
+        "mpixel": 0.016
+      },
+      {
+        "size": "300x300",
+        "bundle": "bundle_bb1ab922-9778-4161-b7d0-902739ea050e",
+        "image": "img/300x300.png",
+        "mpixel": 0.09
+      },
+      {
+        "size": "470x470",
+        "bundle": "bundle_d3c82108-f306-4cfd-a545-0d8413ca06b1",
+        "image": "img/470x470.png",
+        "mpixel": 0.221
+      },
+      {
+        "size": "650x650",
+        "bundle": "bundle_e32ef589-a6f0-481d-8a29-2b1d6155c0e2",
+        "image": "img/650x650.png",
+        "mpixel": 0.422
+      },
+      {
+        "size": "820x820",
+        "bundle": "bundle_3fa9eb4c-b5b0-4aec-b396-530cedf3bb36",
+        "image": "img/820x820.png",
+        "mpixel": 0.672
+      },
+      {
+        "size": "992x992",
+        "bundle": "bundle_29aa2702-1e4d-4a49-917d-ade09881de32",
+        "image": "img/992x992.png",
+        "mpixel": 0.984
+      }
+    ]
+  }
+}
