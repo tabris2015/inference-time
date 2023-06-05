@@ -65,7 +65,7 @@ def avg_results(model, image, iterations=100) -> dict:
     latencies = []
     for _ in range(iterations):
         latencies.append(model.predict([image], trim_results_for_inference_apps=True)[0].latency)
-        print(".")
+        print(".", end=" ")
 
     results = get_mean_std(latencies)
 
